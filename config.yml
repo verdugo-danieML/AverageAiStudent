@@ -8,19 +8,22 @@ enableEmoji: true
 params:
   author: Roberto Verdugo
   homeInfoParams:
-    Title: "the Average AI Student"
+    Title: "Hey there!"
     Content: >
-      Hey there! Welcome to the **Average Ai Student blog** 🎉
+      Welcome to the **Average Ai Student blog** 🎉
+
 
       - Where I'll be taking you on a wild ride through the twisted world of artificial intelligence. 
         As a computer science master student, I'll be sharing my daily struggles and triumphs as I delve 
         deeper into the mysterious depths of deep learning, machine learning, and robotics. 
         Join me as I try not to lose my mind (or my data!) while providing step-by-step tutorials that even your grandma could follow.
-            
+         
+   
       - But that's not all – I'll also be bringing you the latest AI news and trends, 
         translated into human-speak so you don't have to worry about your brain
         turning into a neural network. And hey, who says AI can't be fun?
         We'll also explore how its portrayed in pop culture, from robots gone rogue in movies to cyborg love stories in books.
+
 
       - So come on, hop on board the AI rollercoaster with me and let's see where it takes us.
         Just remember to hold on tight – it's gonna be one heck of a ride! Peace.
