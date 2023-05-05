@@ -6,27 +6,32 @@ theme: PaperMod
 enableEmoji: true
 
 params:
-  author: David Hwang
+  author: Roberto Verdugo
   homeInfoParams:
-    Title: "the dev playbook"
+    Title: "the Average AI Student"
     Content: >
       Welcome to the **dev playbook** 🎉
+
       - This space shares step-by-step guides for devs to building different backend/infra projects 🙂
-      - 
+            
       - Tin-can projects that I will be working on include but are not limited to:
+
       - • API with Swagger 2.0 in Go
+
       - • Secure Authentication with Refresh Token
+
       - • Terraform Module that deploys a Lambda + API Gateway
+
       - • Deployment of CI/CD server like Jenkins to EC2 autoscaling groups
+
       - • Kubernetes Cluster with Prometheus and Grafana
+
       - • + many others from different categories
+
   socialIcons:
     - name: Github
-      url: "https://github.com/dhij"
-    - name: Youtube
-      url: "https://www.youtube.com/@dhij"
-    - name: Rss
-      url: "index.xml"
+      url: "https://https://github.com/verdugo-danieML"
+    
 
   ShowReadingTime: true
   ShowShareButtons: true
