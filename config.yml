@@ -30,7 +30,7 @@ params:
 
   socialIcons:
     - name: Github
-      url: "github.com/verdugo-danieML"
+      url: "https://github.com/verdugo-danieML"
     
 
   ShowReadingTime: true
