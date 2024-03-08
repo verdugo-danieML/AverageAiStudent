@@ -1,4 +1,4 @@
-baseURL = 'https://verdugo-danieml.github.io/AverageAiStudent/'
+baseURL = 'https://verdugo-danieML.github.io/AverageAiStudent/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-PaperMod"
